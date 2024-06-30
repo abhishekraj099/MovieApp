@@ -1,6 +1,6 @@
 package com.example.movieapp.utils
 
 object Util {
-
-    const val BASE_URL = "https://moviesapi.ir/api/v1/"
+    //https://moviesapi.ir/api/v1/movies?/page=1
+    const val Base = "https://moviesapi.ir/api/v1/"
 }

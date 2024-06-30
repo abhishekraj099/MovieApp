@@ -1,6 +1,5 @@
 package com.example.movieapp.models
-
-data class MovieList (
+data class MoviesList(
     val data: List<Data>,
     val metadata: Metadata
 )
